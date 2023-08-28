@@ -6,8 +6,8 @@ Blog Application serves as a platform enabling users to create, modify, and remo
 
 
 # Stacks Used 
-. HTML & CSS
-. Bootstrap
+. HTML & CSS  
+. Bootstrap  
 . JavaScript
 
 The technology stack encompasses HTML and CSS for structure and design, respectively. Bootstrap, a CSS framework, contributes to an organized and visually appealing layout. JavaScript takes the lead in implementing LocalStorage functionality, empowering the application to store and manage data seamlessly, enhancing user experience.
